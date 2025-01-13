@@ -1,4 +1,2 @@
-<head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1269782285937456"
-     crossorigin="anonymous"></script>
-</head>
+google.com, pub-1269782285937456, DIRECT, f08c47fec0942fa0
+
